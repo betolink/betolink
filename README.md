@@ -16,7 +16,7 @@
 * [Apache Nutch](https://github.com/b-cube/nutch-crawler): Crawling the web for scientific datasets
 * [HDF metadata extractor/reader](https://github.com/betolink/HDF4MapReader): A very early version of what you see now with cloud oriented data formats like Zarr.
 
-**Publications **:
+**Publications 📜**:
 * [Optimizing apache nutch for domain specific crawling at large scale](https://ieeexplore.ieee.org/document/7363976)
 * [Scientific Datasets: Discovery and Aggregation for Semantic Interpretation.](https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/62708)
 
