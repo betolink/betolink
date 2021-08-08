@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**About 🤖**: My name is Luis Alberto Lopez(he/him) —my family calls me "Beto"—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), Mexico. I attended grad school at the University of Colorado where I earned a master's degree in computer science. I'm a big fan of open science, amateur astronomy, world music and nature photography. A personal mantra is: "We must know — we will know"- [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
+**About 🤖**: My name is Luis Alberto Lopez(he/him) —my family calls me "Beto"—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), Mexico. I attended grad school at the University of Colorado where I earned a master's degree in computer science. I'm a big fan of amateur astronomy, open science, world music and nature photography. A personal mantra is: "We must know — we will know"- [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
 
 **Works as 💻**:  Data Science Software Engineer at a NASA distributed archive center.
 
