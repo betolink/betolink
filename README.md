@@ -19,7 +19,5 @@
 **Contact 📫**
 e-mail: betolin at gmail dot com
 
-<a href="https://twitter.com/betolink"><img src="https://img.shields.io/badge/@betolink-1DB1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
 "We must know — we will know"- [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
 
