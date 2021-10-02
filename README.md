@@ -1,8 +1,8 @@
 ### Hi there 👨‍💻
 
-**About**: My name is Luis Alberto Lopez(he/him) —my family calls me "Beto"—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), Mexico. I attended grad school at the University of Colorado where I earned a master's degree in computer science. I'm a big fan of amateur astronomy, open science, world music and nature photography.
+**About**: My name is Luis Lopez(he/him) —my family calls me "Beto"—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), Mexico. I attended grad school at the University of Colorado(MsC CS). I'm a big fan of amateur astronomy, open science, world music and nature photography.
 
-**Works as**: Software Engineer at a **NASA** distributed archive center (NSIDC).
+**Works as**: Software Engineer at a NASA distributed archive center (NSIDC).
 
 **Interests**: (data science, machine learning, data visualization, natural language processing, remote sensing, geospatial processing, simplifying scientific workflows, climate change, raspberry pi projects, travel, street food, human rights).
 
@@ -20,4 +20,3 @@
 e-mail: betolin at gmail dot com
 
 "We must know — we will know"- [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
-
