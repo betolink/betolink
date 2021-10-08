@@ -2,9 +2,7 @@
 
 **About**: My name is Luis Lopez(he/him) —my family calls me "Beto"—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), Mexico. I attended grad school at the University of Colorado(MsC CS). I'm a big fan of amateur astronomy, open science, world music and nature photography.
 
-**Works as**: Software Engineer at a NASA distributed archive center (NSIDC).
-
-**Interests**: (data science, machine learning, data visualization, natural language processing, remote sensing, geospatial processing, simplifying scientific workflows, climate change, raspberry pi projects, travel, street food, human rights).
+**Interests**: (data science, machine learning, data visualization, natural language processing, geospatial processing, simplifying scientific workflows, climate change, raspberry pi projects, travel, street food, human rights).
 
 **Currently working on**:
 
