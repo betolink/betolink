@@ -1,6 +1,6 @@
 ### Hi there 👨‍💻
 
-**About**: My name is **Luis Alberto López** (he/him) —my family calls me "Beto"—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), México. I'm interested in politics, amateur astronomy, open science, world music, stret food and nature photography.
+**About**: My name is **Luis Alberto López** (he/him) —my family calls me "Beto"—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), México. I'm interested in politics, amateur astronomy, open science, world-(music,cinema,street food, .*) and nature photography.
 
 **Contact 📫**
 
