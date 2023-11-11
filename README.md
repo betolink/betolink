@@ -1,4 +1,4 @@
-Hi! my name is **Luis Alberto López** (he/him) —my family calls me "Beto" hence the @betolink—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), México. I'm interested in politics, amateur astronomy, open science, world cinema, street food and nature photography.
+Hi! my name is **Luis Alberto López** (he/him) —my family calls me Beto hence the @**beto**link—. I'm originally from [Chiapas](https://en.wikipedia.org/wiki/Chiapas), México and I'm mostly interested in politics, amateur astronomy, open science, world cinema, street food and nature photography.
 
 **Contact 📫**
 
