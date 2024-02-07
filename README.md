@@ -12,4 +12,4 @@ blog: [betolink.dev](https://betolink.dev)
 
 "We must know — we will know"- [David Hilbert](https://en.wikiquote.org/wiki/David_Hilbert)
 
-[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org)
