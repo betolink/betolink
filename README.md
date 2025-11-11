@@ -1,8 +1,8 @@
-Hi! I'm **Luis López** (he/him) —my family calls me Beto hence the @**beto**link—. 
+Hi! I'm **Luis López** (he/him) —my family calls me Beto hence the @**beto**link—
 
- * I'm originally from Chiapas, México. 
- * I'm interested in politics, amateur astronomy, world cinema and street food.
- * I'm currently working on projets that facilitate science and reproducibility in Python. 
+ * I'm originally from Chiapas, México.
+ * I'm interested in politics, [amateur astronomy](https://betolink.github.io/vera-rubin/), world cinema and street food.
+ * I'm currently collaborating on projects that advance scientific research and reproducibility using Python.
 
 **Contact 📫**
 
